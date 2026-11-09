@@ -1,5 +1,5 @@
 # Holdless
 
-I previously worked on Holdless, an AI phone assistant for customer-service calls. A user describes what they need, and the assistant places the call, handles phone menus and hold time, and reports back with the outcome.
+I previously worked on Holdless, a phone assistant for customer-service calls. A user describes a task, such as checking on a bill. The assistant places the call, navigates the phone menu, and gives the user a record of what happened.
 
-[Holdless product site](https://holdless-ai.com/)
+[Holdless product site and public demo](https://holdless-ai.com/)
